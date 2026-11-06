@@ -1797,8 +1797,6 @@ function MedicineModal({
     batchNumber: "",
     quantity: 0,
     lowStockThreshold: 10,
-    costPrice: "",
-    sellingPrice: "",
     unit: "units",
     supplier: "",
     ...medicine,
